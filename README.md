@@ -1,3 +1,2 @@
 alphaBeta Readme
 feature1
-feature2
